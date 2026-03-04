@@ -17,7 +17,7 @@ Header-only. Lightweight. Explicit.
 
 ## Download
 
-https://vixcpp.com/registry/pkg/gaspardkirira/cli_app
+https://vixcpp.com/registry/pkg/vix/cli_app
 
 ## Why cli_app?
 
@@ -82,14 +82,14 @@ Dependencies are installed automatically via Vix Registry.
 ### Using Vix Registry
 
 ```bash
-vix add gaspardkirira/cli_app
+vix add @vix/cli_app
 vix deps
 ```
 
 ### Manual
 
 ```bash
-git clone https://github.com/Gaspardkirira/cli_app.git
+git clone https://github.com/vixcpp/cli_app.git
 ```
 
 Add the `include/` directory to your project.
