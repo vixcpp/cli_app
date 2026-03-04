@@ -1,0 +1,34 @@
+{
+  "name": "cli_app",
+  "namespace": "gaspardkirira",
+  "version": "0.1.0",
+  "type": "header-only",
+  "include": "include",
+  "license": "MIT",
+  "description": "Command-line application scaffold for Vix built on top of vix/app.",
+  "keywords": [
+    "cpp",
+    "vix",
+    "cli",
+    "command-line",
+    "argparse",
+    "commands",
+    "flags",
+    "logging",
+    "lifecycle",
+    "tooling"
+  ],
+  "repository": "https://github.com/Gaspardkirira/cli_app",
+  "authors": [
+    {
+      "name": "Gaspard Kirira",
+      "github": "Gaspardkirira"
+    }
+  ],
+  "deps": [
+    {
+      "id": "vix/app",
+      "version": "0.1.0"
+    }
+  ]
+}
